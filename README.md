@@ -18,7 +18,11 @@ The first column, serial number, describes the serial number of the property lis
 
 
 ## Question 1
-How was the housing market affected by the Housing Recession in 2008? Display this using data from 2005 to 2012.
+Question: How was the housing market affected by the Housing Recession in 2008? Display this using data from 2005 to 2012.
+
+Importance: This question is important as it shows how the devastating recession of 2007 and 2008 affected the housing market in the state of Connecticut. This question helps depict how the housing market looked before, during, and after the recession. This can help the entire financial real estate industry by looking at how their past decisions can affect the housing market. By seeing the downward spiral in home prices as the economy headed into the recession, it is visible that the mistakes made by the banks on Wall Street had external effects on the housing market. 
 
 ## Question 2
-For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
+Question: For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
+
+Importance: This question is important as it can not only allow customers, but realtors as well to analyze the residential Connecticut real estate market as a whole across 2020 and 2021. This is valuable for realtors, because it can show them the towns that they should focus their efforts in to maximize their sales. This question is valuable for customers as it allows them to see how far their budget can stretch them in the market and also allows them to see how much they prioritize their distance from New York City. Customers can then have a discussion with their realtor to determine where they can realistically purchase their future home in Connecticut.
