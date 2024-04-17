@@ -10,3 +10,5 @@
 4. Keira Cullinan [@keiracullinan](https://github.com/keiracullinan)
 5. Lleyton Poole [@lleytonpoole10](https://github.com/lleytonpoole10)
 6. Luke Burnett [@lukeburnett16](https://github.com/lukeburnett16)
+
+Question 1: How was the housing market affected by the Housing Recession in 2008? Use data from January 2002 to Present, and show by month.
