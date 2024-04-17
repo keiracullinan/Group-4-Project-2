@@ -24,6 +24,9 @@ Question: How was the housing market affected by the Housing Recession in 2008? 
 
 Importance: This question is important as it shows how the devastating recession of 2007 and 2008 affected the property market in the state of Connecticut. This question helps depict how the real estate market looked before, during, and after the recession. This can help the entire financial real estate industry by looking at how their past decisions can affect the housing market. By seeing the downward spiral in property prices as the economy headed into the recession, it is visible that the mistakes made by the banks on Wall Street had external effects on the real estate market. To illustrate this change, we chose to use a line graph that could represent a continuation in the property prices, and the difference in sale amount and assessed value. 
 
+![MIST Project 2 - Difference Bar Chart](https://github.com/katemacken/Group-4-Project-2/assets/163012888/7ce5d62a-1b79-437e-8a44-d2ed45923687)
+
+
 ## Question 2
 Question: For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
 
