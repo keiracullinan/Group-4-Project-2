@@ -26,3 +26,8 @@ Importance: This question is important as it shows how the devastating recession
 Question: For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
 
 Importance: This question is important as it can not only allow customers, but realtors as well to analyze the residential Connecticut real estate market as a whole across 2020 and 2021. This is valuable for realtors because it can show them the towns that they should focus their efforts to maximize their sales. This question is valuable for customers as it allows them to see how far their budget can stretch them in the market and also allows them to see how much they prioritize their distance from New York City. Customers can then have a discussion with their realtor to determine where they can realistically purchase their future home in Connecticut. To illustrate this, we chose to use a symbol map. 
+
+The first visualization shows each town in Connecticut denoted by a bubble whose size and color is dependent on their average residential sale price in 2020-2021. The larger and darker the bubble is, the greater the average sale price was. The second visualization, shows the 10 towns in Connecticut with the highest average sale price across 2020-2021.
+
+<img width="1440" alt="Screenshot 2024-04-17 at 11 38 09 AM" src="https://github.com/katemacken/Group-4-Project-2/assets/163012542/4665d9b9-aff0-4764-9695-ae098d11a5ab">
+
