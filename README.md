@@ -15,3 +15,6 @@
 
 ## Question 1
 How was the housing market affected by the Housing Recession in 2008? Use data from January 2002 to Present, and show by month.
+
+## Question 2
+For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
