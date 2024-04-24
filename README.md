@@ -48,3 +48,9 @@ The first visualization shows each town in Connecticut denoted by a bubble whose
 
 Our first visualization showed a clear correlation when it came to how residential sale prices were correlated to their distance to New York City. For reference, New York City is just south west of the border of Connecticut, with the largest and darkest circle on our visualization (Greenwich) being the city that is nearest to NYC. With that being said, it can be confidently said that, on average, the closer the towns are to New York City, the higher their average sale price is. As the towns move further down the coastline and into more rural Connecticut, the average sale prices can be seen dropping drastically, which is shown by the circle size decreasing. This should tell realtors that they should focus more of their business closer to NYC, as they will see much greater sales and use their time much more efficiently, while also seeing a greater number of customers as they are closer to the most populated city in America. The second visualization puts the first visualization into more detail as it provides the names for the top 10 most expensive towns along with their average sale price as well. On the bar graph, you can see that Greenwich, the nearest city to NYC, has an average sale price 40% greater than the next closest city. 
 
+## Question 3 - Honors Option Addition
+Question: 
+
+Importance: 
+
+
