@@ -28,7 +28,7 @@ Importance: This question is important as it shows how the devastating recession
 
 Our first graph illustrates the difference in the average sale amount and the average assessed price. The graph shows that before the recession, there was a wide gap between the assessed value of the home and its final sale amount. However, as the recession came, that gap narrowed and homes began to be sold for a price similar to its assessed value. This trend continued on after the recession.
 
-<img width="474" alt="MISscreenshot" src="https://github.com/katemacken/Group-4-Project-2/assets/163315179/b5c0c2d9-6913-494d-9b78-a405195867c1">
+<img width="1440" alt="MISscreenshot" src="https://github.com/katemacken/Group-4-Project-2/assets/163315179/b5c0c2d9-6913-494d-9b78-a405195867c1">
 
 This graph shows the average difference between the average sale price and the average assessed value of homes in Connecticut from 2005-2012. This graph shows how the gap between the two started out large in 2005, but as the country headed towards the recession, the gap continually narrowed. This trend continued to happen well after the recession until 2012 when the average assessed value actually became higher than the average sale price for the first time in seven years.
 
