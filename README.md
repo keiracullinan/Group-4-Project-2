@@ -55,4 +55,7 @@ Question: What is the distribution of property types through different towns in 
 
 Importance: Through this visualization, it is shown which towns have the greatest type of each property. It is important for a real estate agent, and an interested customer, since they would know where the majority of the property types they are looking for are. For example, if a single-home family is looking for a home in Connecticut, then they would know where to look and not to look. In addition, this will help real estate appraisals, as they will now know the types of properties in each town. The towns shown have an average sale amount above $1,000,000. 
 
+<img width="1115" alt="question3-2-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/a8d27709-6138-4d0f-a17a-8ecc8e615227">
+
+
 
