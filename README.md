@@ -30,19 +30,19 @@ Our first graph illustrates the difference in the average sale amount and the av
 
 ![MIST Project 2 - Difference Bar Chart](https://github.com/katemacken/Group-4-Project-2/assets/163012888/7ce5d62a-1b79-437e-8a44-d2ed45923687)
 
-This graph shows the average difference between the average sale price and the average assessed value of homes in Connecticut from 2005-2012. This graph shows how the gap between the two started out large in 2005, but as the country headed towards the recession, the gap continually narrowed. This trend continued to happen well after the recession until 2012 when the average assessed value actually became higher than the average sale price for the first time in seven years.
+This graph shows the average difference between the average sale price and the average assessed value of homes in Connecticut from 2005-2012. This graph shows how the gap between the two started out large in 2005, but as the country headed towards a recession, the gap continually narrowed. This trend continued to happen well after the recession until 2012 when the average assessed value actually became higher than the average sale price for the first time in seven years.
 
 
 
 ## Question 2
 Question: For residential property types, how does proximity to New York City affect the average sale price of homes in 2020 and 2021? List the 10 towns with the highest average residential sale price on a bar graph as well.
 
-Importance: This question is important as it can not only allow customers, but realtors as well to analyze the residential Connecticut real estate market as a whole across 2020 and 2021. This is valuable for realtors because it can show them the towns that they should focus their efforts to maximize their sales. This question is valuable for customers as it allows them to see how far their budget can stretch them in the market and also allows them to see how much they prioritize their distance from New York City. Customers can then have a discussion with their realtor to determine where they can realistically purchase their future home in Connecticut. To illustrate this, we chose to use a symbol map. 
+Importance: This question is important as it can not only allow customers, but realtors as well to analyze the residential Connecticut real estate market as a whole across 2020 and 2021. This is valuable for realtors because it can show them the towns where they should focus their efforts to maximize their sales. This question is valuable for customers as it allows them to see how far their budget can stretch them in the market and also allows them to see how much they prioritize their distance from New York City. Customers can then have a discussion with their realtor to determine where they can realistically purchase their future home in Connecticut. To illustrate this, we chose to use a symbol map. 
 
 ![MIST Project 2 - Map](https://github.com/katemacken/Group-4-Project-2/assets/163012888/d1563d96-80d1-436d-b855-64742fca1714)
 
 
-The first visualization shows each town in Connecticut denoted by a bubble whose size and color is dependent on their average residential sale price in 2020-2021. The larger and darker the bubble is, the greater the average sale price was. The second visualization, shows the 10 towns in Connecticut with the highest average sale price across 2020-2021.
+The first visualization shows each town in Connecticut denoted by a bubble whose size and color is dependent on their average residential sale price in 2020-2021. The larger and darker the bubble is, the greater the average sale price is. The second visualization shows the 10 towns in Connecticut with the highest average sale price across 2020-2021.
 
 <img width="1440" alt="Screenshot 2024-04-17 at 11 38 09 AM" src="https://github.com/katemacken/Group-4-Project-2/assets/163012542/4665d9b9-aff0-4764-9695-ae098d11a5ab">
 
@@ -55,11 +55,11 @@ Importance: Through this visualization, it is shown which towns have the greates
 
 <img width="1119" alt="question3-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/f6a8c2c2-82f4-46cf-acc7-f7e5bd0f24db">
 
-The first visualization shows the breakdown of the counts of different types of properties in towns with an average sale amount of $1,000,000. The darker the color of the square, the higher the count. If there is not a square, then there are no proporties with that property type in the respective town. The second visualization shows the sale amounts from the years 2008 - 2021. The residential types shown are condo, single family, two family, three family, and four family homes. 
+The first visualization shows the breakdown of the counts of different types of properties in towns with an average sale amount of $1,000,000. The darker the color of the square, the higher the count. If there is not a square, then there are no properties with that property type in the respective town. The second visualization shows the sale amounts from the years 2008 - 2021. The residential types shown are condo, single-family, two-family, three-family, and four-family homes. 
 
 <img width="1115" alt="question3-2-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/a8d27709-6138-4d0f-a17a-8ecc8e615227">
 
-Our first visualization shows the towns with the largest number of property types by town. This visualizations will allow real estate agents to quickly and efficiently see 
+Our first visualization shows the towns with the largest number of property types by town. These visualizations will allow real estate agents to quickly and efficiently see the distribution of different property types for the towns that their buyers are looking at. If a buyer is looking for a single-family home, then they would not want to look in a town where they a substantially fewer options in one town than another. The second option explains the change in sale amounts over 13 years. If the sale amounts in one town are increasing dramatically, then this may influence the opinion of the buyer. 
 
 ## Manipulations to the Dataset
 While the majority of the dataset did not need any manipulations, the "Difference" calculations allowed us to see the true difference between the assessed value and the sale amount. To do this calculation, we added another column to the end of the dataset, and we subtracted the Assessed Value from the Sale Amount. The data format stayed the same as the assessed value and sale amount, which are number (decimals). In addition, we did have to convert the town data type from string to town to be able to visualize the data through a symbol map. 
