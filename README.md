@@ -51,11 +51,21 @@ Our first visualization showed a clear correlation when it came to how residenti
 ## Question 3 - Honors Option Addition
 Question: What is the distribution of property types through different towns in Connecticut? 
 
-<img width="1119" alt="question3-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/f6a8c2c2-82f4-46cf-acc7-f7e5bd0f24db">
-
 Importance: Through this visualization, it is shown which towns have the greatest type of each property. It is important for a real estate agent, and an interested customer, since they would know where the majority of the property types they are looking for are. For example, if a single-home family is looking for a home in Connecticut, then they would know where to look and not to look. In addition, this will help real estate appraisals, as they will now know the types of properties in each town. The towns shown have an average sale amount above $1,000,000. 
 
+<img width="1119" alt="question3-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/f6a8c2c2-82f4-46cf-acc7-f7e5bd0f24db">
+
+The first visualization shows the breakdown of the counts of different types of properties in towns with an average sale amount of $1,000,000. The darker the color of the square, the higher the count. If there is not a square, then there are no proporties with that property type in the respective town. The second visualization shows the sale amounts from the years 2008 - 2021. The residential types shown are condo, single family, two family, three family, and four family homes. 
+
 <img width="1115" alt="question3-2-mis" src="https://github.com/keiracullinan/Group-4-Project-2/assets/163315179/a8d27709-6138-4d0f-a17a-8ecc8e615227">
+
+Our first visualization shows the towns with the largest number of property types by town. This visualizations will allow real estate agents to quickly and efficiently see 
+
+## Manipulations to the Dataset
+While the majority of the dataset did not need any manipulations, the "Difference" calculations allowed us to see the true difference between the assessed value and the sale amount. To do this calculation, we added another column to the end of the dataset, and we subtracted the Assessed Value from the Sale Amount. The data format stayed the same as the assessed value and sale amount, which are number (decimals). In addition, we did have to convert the town data type from string to town to be able to visualize the data through a symbol map. 
+
+## Tableau Packaged Workbook
+The packaged workbook is attached to this repository, and it shows the visualizations that are explained above. 
 
 
 
